@@ -9,6 +9,7 @@ GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
 - TensorRT-8.6.1.6
 - PyTorch-2.0.1
 - cuda-python-12.3.0
+- onnx-1.14.0
 
 ## Depoly GFPGANv1.4
 
